@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/CPP_Learnings/ArraysAndString/x64/Debug
+/CPP_Learnings/x64/Debug
+/CPP_Learnings/.vs/CPP_Learnings

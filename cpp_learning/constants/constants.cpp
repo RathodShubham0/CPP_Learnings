@@ -13,5 +13,16 @@ int main() {
     std::cout << "Area of the rectangle: " << rect.area() << std::endl;
     std::cout << "Perimeter of the rectangle: " << rect.perimeter() << std::endl;
 
+    const int constant_vari = 10;
+
+    std::cout <<"const vari value : "<< constant_vari << std::endl;
+
+    //const int constant_vari ;  // error beacause it needs to initialize at the time of delaration
+    //constant_vari =  23;
+
+    std::cout << "const vari value : " << constant_vari << std::endl;
+
+
+
     return 0;
 }

@@ -3,6 +3,7 @@
 #include "Rectangle.h"
 
 int main() {
+
     const double LENGTH = 5.0; // Constant for length
     const double WIDTH = 3.0;  // Constant for width
 
